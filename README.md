@@ -21,3 +21,4 @@
 |#| Sessions | Keyword |
 |:--:|:--:|:--:|
 | 1 | CodeCells | [link](https://github.com/bk0915/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
+| 2 | File Types df Data | [number, string, list, tuple, dictionary](https://github.com/bk0915/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
