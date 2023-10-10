@@ -22,3 +22,5 @@
 |:--:|:--:|:--:|
 | 1 | CodeCells | [link](https://github.com/bk0915/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 | 2 | File Types df Data | [number, string, list, tuple, dictionary](https://github.com/bk0915/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
+| 3 | Indexing & slicing | [:, forward, backward, link +, repeat *, length len()](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+| 4 | Statement|[if](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_1_IfStatement.ipynb) , [for](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_2_ForStatement.ipynb) , [try](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) , [while](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)|
