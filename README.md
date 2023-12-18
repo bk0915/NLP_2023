@@ -26,4 +26,7 @@
 | 4 | Statement|[if](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_1_IfStatement.ipynb) , [for](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_2_ForStatement.ipynb) , [try](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) , [while](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)|
 | 5 | Regular Expression | [re, meta character](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/5_RegularExpression.ipynb) , [revised ver](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb)|
 | 6 | Functions | [function, factor](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/6_DefiningFunctions.ipynb) |
-| 7 | Classes | [class, method, object](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb)
+| 7 | Classes | [class, method, object](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb) |
+| 8 | Files | [Open & Close, Making a directory & uploading files on Colab](https://colab.research.google.com/github/bk0915/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb) |
+ 
+
